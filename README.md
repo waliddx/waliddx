@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
 <p align="left"> <a href="https://twitter.com/waliddx" target="blank"><img src="https://img.shields.io/twitter/follow/waliddx?logo=twitter&style=for-the-badge" alt="waliddx" /></a> </p>
-(img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47y56jrop525euj9fv071ozq96zsy6z9kxk17l1tyc&ep=v1_gifs_search&rid=giphy.gif&ct=g")
+(img align="right" alt="Coding" width="400" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC")
 
 - 🌱 I’m currently studying **to be a software engineering**
 
