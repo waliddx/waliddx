@@ -6,7 +6,7 @@
 
 - 🌱 Currently studying **to be a software engineer**
 
-- 💬 Ask me about **anything about coding**
+- 💬 Ask me **anything about coding**
 
 - 📫 How to reach me **wagzouly@gmail.com**
 
